@@ -16,7 +16,13 @@ This project is an Airport Database Management System designed to manage and org
 ---
 
 ## 🗄️ Database Architecture
-The system is built on **9 relational tables - Airplanes
+The system is built on **9 relational tables**.
+Below is the high-level structure and the data implementation.
+
+| Database Schema | Table List |
+| :---: | :---: |
+| ![Schema](Database_Tables.png) | *A list of all 9 entities integrated into the system.
+ Airplanes
 - Airports
 - AirSurveillance
 - Baggage
@@ -24,12 +30,7 @@ The system is built on **9 relational tables - Airplanes
 - Flights
 - Maintenance
 - Reservations
-- Travelers
-**. Below is the high-level structure and the data implementation.
-
-| Database Schema | Table List |
-| :---: | :---: |
-| ![Schema](Database_Tables.png) | *A list of all 9 entities integrated into the system.* |
+- Travelers* |
 
 ---
 
