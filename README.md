@@ -12,9 +12,7 @@ This project is an Airport Database Management System designed to manage and org
 
 
 ### 📥 Project Resources
-> [!IMPORTANT]
-> **[Click here to View or Download the Full Project PDF](Airport_Project.pdf)**
-
+[📥 Click here to Download or View Full Project PDF](Airport_Project.pdf?raw=true)
 ---
 
 ## 🗄️ Database Architecture
