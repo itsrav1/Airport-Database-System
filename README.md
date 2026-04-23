@@ -22,15 +22,7 @@ Below is the high-level structure and the data implementation.
 | Database Schema | Table List |
 | :---: | :---: |
 | ![Schema](Database_Tables.png) | *A list of all 9 entities integrated into the system.
- Airplanes
-- Airports
-- AirSurveillance
-- Baggage
-- Employees
-- Flights
-- Maintenance
-- Reservations
-- Travelers* |
+ Airplanes* |
 
 ---
 
