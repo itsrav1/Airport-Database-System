@@ -1,45 +1,52 @@
-# ✈️ Airport Database Management System
+# ✈️ Airport Database System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Integrity-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Database%20Project-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engine-SQL%20Backend-black?style=for-the-badge&logo=databricks" />
+  <img src="https://img.shields.io/badge/Focus-Real%20World%20Simulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Airport%20Operations-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Overview
-The **Airport Database Management System** is designed to efficiently manage core airport operations, including flights, passengers, baggage, aircraft, and employees.
+## 🎮 Project Concept
 
-The system focuses on **data consistency, relational design, and efficient SQL query handling**, simulating real-world airport data operations.
+A **simulation-based database system** inspired by real-world airport operations.
 
----
+This project was designed like a backend “game engine” for managing airport life:
+flights moving, passengers interacting, baggage flowing, and staff keeping everything running smoothly.
 
-## 📥 Project Documentation
-> ⚠️ Full project report and documentation:
-
-📄 **[Download Full Project PDF](Airport_Database_System_Documentation.pdf.pdf)**
+Think of it as a **backend simulation world powered by SQL logic.**
 
 ---
 
-## 🗄️ Database Architecture
+## ✨ Core Systems
 
-The system is built using **9 relational tables**, designed with strong relationships using primary and foreign keys.
+- 🛫 Flight Management System  
+- 🧍 Passenger Tracking System  
+- 🧳 Baggage Handling System  
+- 👨‍✈️ Employee & Operations System  
+- 🗄️ Fully Relational Database Architecture  
+
+---
+
+## 🧠 Gameplay Logic (Database Logic)
 
 <p align="center">
-  <img src="Database_Tables.png" width="700"/>
+  <img src="Database_Tables.png" width="750"/>
 </p>
 
+The system is built like a **connected world**, where every table interacts with another using:
+
+- Primary Keys 🔑  
+- Foreign Keys 🔗  
+- Relational Constraints ⚙️  
+
 ---
 
-## 💻 SQL Implementation
+## ⚙️ Engine Mechanics (SQL Core)
 
-This section highlights the core database logic and SQL development.
-
----
-
-### 🏗️ Table Creation
-Designed with structured **Primary & Foreign Keys** to ensure relational integrity.
+### 🏗️ World Building (Table Creation)
+Like building the foundation of a game world — structured, stable, and scalable.
 
 <p align="center">
   <img src="SQL_Creation_Script.png" width="750"/>
@@ -47,8 +54,8 @@ Designed with structured **Primary & Foreign Keys** to ensure relational integri
 
 ---
 
-### 🔄 Data Manipulation
-Implemented advanced SQL operations including conditional updates and data modifications.
+### 🔄 Live Data Simulation
+Dynamic updates simulate real-time changes in the system.
 
 <p align="center">
   <img src="Data_Manipulation.png" width="750"/>
@@ -56,32 +63,39 @@ Implemented advanced SQL operations including conditional updates and data modif
 
 ---
 
-## 📊 Query Results
+## 📊 System Output
 
-The final output demonstrates successful execution of queries and system functionality.
+Final query results show how the “world” reacts and functions in real execution.
 
 <p align="center">
-  <img src="Query_Results.png" width="850"/>
+  <img src="Query_Results.png" width="800"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-- 🗄️ MySQL (SQL Development)
-- 📊 Relational Database Design
-- 🔗 Entity-Relationship Modeling
-- ⚙️ Data Integrity & Constraints
-- 📑 Technical Documentation
+- 🗄️ MySQL Engine  
+- ⚙️ Relational Database Design  
+- 🧠 Logical Data Modeling  
+- 📊 Query Optimization  
+- 📐 System Architecture Design  
 
 ---
 
-## 🌟 Key Highlights
+## 🚀 Highlights
 
-- Designed a full relational database system
-- Ensured data consistency using constraints
-- Built and tested complex SQL queries
-- Simulated real-world airport operations
+- Built as a **real-world simulation system**
+- Designed like a **backend game engine**
+- Strong relational structure between entities
+- Handles complex operational logic efficiently
+- Fully functional SQL-driven system
+
+---
+
+<p align="center">
+  ✨ Crafted by <b>Rahaf Al-Wadai</b> ✨
+</p>
 
 ---
 
