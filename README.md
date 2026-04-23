@@ -6,8 +6,10 @@
 
 ---
 
-## 📌 Overview
-This project is a comprehensive **Airport Database Management System** designed to streamline operations, manage flight schedules, and track passenger data efficiently.
+##📌 Overview
+This project is an Airport Database Management System designed to manage and organize airport operations efficiently, including flights, passengers, baggage, and employees.
+
+
 
 ### 📥 Project Resources
 > [!IMPORTANT]
@@ -16,7 +18,16 @@ This project is a comprehensive **Airport Database Management System** designed 
 ---
 
 ## 🗄️ Database Architecture
-The system is built on **9 relational tables**. Below is the high-level structure and the data implementation.
+The system is built on **9 relational tables - Airplanes
+- Airports
+- AirSurveillance
+- Baggage
+- Employees
+- Flights
+- Maintenance
+- Reservations
+- Travelers
+**. Below is the high-level structure and the data implementation.
 
 | Database Schema | Table List |
 | :---: | :---: |
