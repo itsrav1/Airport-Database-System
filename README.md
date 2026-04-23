@@ -1,56 +1,58 @@
-# Airport Database Management System
+# ✈️ Airport Database Management System
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/Focus-Data%20Integrity-green?style=for-the-badge" alt="Integrity">
+</p>
+
+---
 
 ## 📌 Overview
-This project is an Airport Database Management System designed to manage and organize airport operations efficiently, including flights, passengers, baggage, and employees.
+This project is a comprehensive **Airport Database Management System** designed to streamline operations, manage flight schedules, and track passenger data efficiently.
 
-## 🗄️ Database Structure
-The system includes 9 main tables:
-- Airplanes
-- Airports
-- AirSurveillance
-- Baggage
-- Employees
-- Flights
-- Maintenance
-- Reservations
-- Travelers
+### 📥 Project Resources
+> [!IMPORTANT]
+> **[Click here to View or Download the Full Project PDF](Airport_Project.pdf)**
 
-## 🔗 Key Features
-- Relational database design with foreign keys
-- Data integrity using constraints
-- Structured schema for real-world airport operations
+---
 
-## 🛠️ Technologies Used
-- SQL
-- Database Design
+## 🗄️ Database Architecture
+The system is built on **9 relational tables**. Below is the high-level structure and the data implementation.
 
-## 👩‍💻 My Role
-- Designed database structure
-- Created tables and relationships
-- Implemented SQL queries
-- Analyzed system requirements
+| Database Schema | Table List |
+| :---: | :---: |
+| ![Schema](Database_Tables.png) | *A list of all 9 entities integrated into the system.* |
 
-- ## 🛠️ Database Implementation
-The system consists of 9 relational tables:
-![Tables List](Database_Tables.png)
+---
 
-### 🏗️ Data Structure & Creation
-I focused on maintaining data integrity using Primary and Foreign keys:
-![Creation Script](SQL_Creation_Script.png)
+## 💻 SQL Implementation & Logic
+I focused on writing clean, efficient SQL scripts to handle data creation and complex updates.
 
-### 🔄 Data Manipulation
-Example of conditional updates and data management:
-![Data Manipulation](Data_Manipulation.png)
+### 🏗️ 1. Table Creation
+Focused on **Primary Keys** and **Foreign Keys** to ensure seamless relationships.
+![Creation](SQL_Creation_Script.png)
 
-### 📊 Final Output Sample
-Sample of flight data retrieval:
-![Query Results](Query_Results.png)
-## 🎯 Objectives
-- Improve operational efficiency
-- Manage flight and passenger data
-- Track baggage and reservations
-- Organize airport resources
+### 🔄 2. Data Manipulation
+Implemented logic for conditional updates, such as managing passenger titles and salaries.
+![Manipulation](Data_Manipulation.png)
 
+---
 
-## 📎 Project File
-You can find the full documentation in the PDF file above.
+## 📊 Final Results
+The screenshot below shows the final output of a query retrieving flight details, proving the system is fully functional.
+
+<p align="center">
+  <img src="Query_Results.png" width="800">
+</p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **SQL Language:** MySQL
+* **Relational Design:** Entity-Relationship Modeling
+* **Data Analysis:** Complex Queries & Data Testing
+* **Documentation:** Technical Reporting
+
+---
+<p align="center">
+  Developed with care by [اسمك هنا] ✨
+</p>
