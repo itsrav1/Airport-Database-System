@@ -1,24 +1,29 @@
 # ✈️ Airport Database Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Database-00758F?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Type-Relational%20Database-2E86C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Integrity-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Integrity-27AE60?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📌 Overview
 
-An **Airport Database Management System** designed to manage and organize airport operations efficiently, including flights, passengers, baggage, airplanes, and employees.
+This project is an **Airport Database Management System** designed to manage and organize airport operations efficiently, including flights, passengers, baggage, and employees.
 
-The system demonstrates core database concepts such as **relational design, data integrity, and SQL query implementation**.
+---
+
+## 📥 Project Resources
+
+> ⚠️ **Full Project Documentation**
+
+📄 [Click here to View or Download the Full Project PDF](Airport_Database_System_Documentation.pdf)
 
 ---
 
 ## 🗄️ Database Architecture
 
-The system consists of **9 relational tables** with well-defined relationships using primary and foreign keys.
+The system is built on **9 relational tables**, designed to ensure strong relationships and data integrity.
 
 <p align="center">
   <img src="Database_Tables.png" width="650"/>
@@ -26,9 +31,13 @@ The system consists of **9 relational tables** with well-defined relationships u
 
 ---
 
-## 💻 SQL Implementation
+## 💻 SQL Implementation & Logic
+
+Clean and efficient SQL scripts were used to build and manage the system.
 
 ### 🏗️ Table Creation
+
+Focused on **Primary Keys** and **Foreign Keys** to maintain relational structure.
 
 <p align="center">
   <img src="SQL_Creation_Script.png" width="650"/>
@@ -38,15 +47,17 @@ The system consists of **9 relational tables** with well-defined relationships u
 
 ### 🔄 Data Manipulation
 
+Implemented conditional updates and structured data operations.
+
 <p align="center">
   <img src="Data_Manipulation.png" width="650"/>
 </p>
 
 ---
 
-## 📊 Query Results
+## 📊 Final Results
 
-Final outputs demonstrating successful execution of SQL queries and system functionality.
+Query results demonstrating full system functionality.
 
 <p align="center">
   <img src="Query_Results.png" width="650"/>
@@ -64,16 +75,8 @@ Final outputs demonstrating successful execution of SQL queries and system funct
 
 ---
 
-## 📌 Key Features
-
-- Structured relational schema
-- Strong entity relationships
-- Efficient data handling using SQL
-- Real-world airport data simulation
-- Clean and optimized queries
-
----
+## ✨ Developed by
 
 <p align="center">
-  Developed by <b>Rahaf Al-Wadai</b>
+  <b>Rahaf Al-Wadai</b>
 </p>
