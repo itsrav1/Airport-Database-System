@@ -2,25 +2,22 @@
 
 ## 📌 Overview
 This project is an Airport Database Management System designed to manage and organize airport operations efficiently, including flights, passengers, baggage, and employees.
-## 📁 Full Documentation
-[Download Full Project PDF](Airport_Project.pdf)
 
-## 🗄️ Database Structure
-The system is built on 9 core relational tables:
-![Database Tables](Database_Tables.png)
+## 🛠️ Database Implementation
+The system consists of 9 relational tables:
+![Tables List](Database_Tables.png)
 
-### 🏗️ Design & Implementation
-I designed the schema with a focus on relational integrity, using Primary and Foreign keys to link entities like Travelers and Reservations:
+### 🏗️ Data Structure & Creation
+I focused on maintaining data integrity using Primary and Foreign keys:
 ![Creation Script](SQL_Creation_Script.png)
 
-## 💻 SQL Features & Testing
-I implemented advanced SQL queries for data manipulation, such as conditional updates for passenger titles and payroll processing:
+### 🔄 Data Manipulation
+Example of conditional updates and data management:
 ![Data Manipulation](Data_Manipulation.png)
 
-### 📊 Sample Output
-Example of flight data retrieval and scheduling results:
+### 📊 Final Output Sample
+Sample of flight data retrieval:
 ![Query Results](Query_Results.png)
-
 ## 🎯 Objectives
 - Improve operational efficiency
 - Manage flight and passenger data
