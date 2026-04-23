@@ -54,5 +54,5 @@ The screenshot below shows the final output of a query retrieving flight details
 
 ---
 <p align="center">
-  Developed with care by [اسمك هنا] ✨
+  Developed with care by [Rahaf Al-Wadai] ✨
 </p>
